@@ -5,6 +5,12 @@ MISULTIN - An Erlang library for building fast lightweight HTTP servers.
 >-|-|-(°>
 
 
+PURPOSE OF THIS FORK
+==========================================================================================================
+
+As of now, simply a Makefile refactoring. See 000365d for details.
+
+
 INSTALL INSTRUCTIONS
 ==========================================================================================================
 
